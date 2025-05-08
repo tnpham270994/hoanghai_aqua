@@ -1,0 +1,22 @@
+{
+  "name": "drinking-water-website-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.3.5",
+    "vite-plugin-static-copy": "^2.3.1"
+  }
+}
