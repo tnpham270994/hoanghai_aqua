@@ -19,6 +19,8 @@ export default async () => {
           product: 'product.html',
           service: 'service.html',
           product_may_loc_nuoc: 'product-may-loc-nuoc.html',
+          product_may_loc_nuoc_bien_tan_vong_bi_gom: 'product-may-loc-nuoc-bien-tan-vong-bi-gom.html',
+          product_may_loc_nuoc_bien_tan_vong_treo_khi: 'product-may-loc-nuoc-bien-tan-vong-treo-khi.html'
         }
       }
     },
